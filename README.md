@@ -5,10 +5,6 @@
 <img src="https://github.com/user-attachments/assets/979d52ee-8bc3-4f44-a048-b356e0b8b31f" 
      alt="Airport Simulation Screenshot" 
      style="width: 500px; height: auto;">
-     
- <img src="https://github.com/user-attachments/assets/0a0cd828-4c64-435d-a611-b858d1590143" 
-     alt="Airport Simulation Screenshot" 
-     style="width: 500px; height: auto;">
 
  <img src="https://github.com/user-attachments/assets/18987288-f63c-4083-8ea0-5329d48a02c4" 
      alt="Airport Simulation Screenshot" 
@@ -16,7 +12,7 @@
 
  <img src="https://github.com/user-attachments/assets/b386671f-fbb8-4442-a175-8329f96b3b85" 
      alt="Airport Simulation Screenshot" 
-     style="width: 500px; height: auto;">
+     style="width: 300px; height: auto;">
 
  <img src="https://github.com/user-attachments/assets/a3a6d56e-176d-48da-8fb4-4d5c561d0173" 
      alt="Airport Simulation Screenshot" 
